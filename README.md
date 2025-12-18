@@ -1,7 +1,7 @@
 # SLS
 Save Load System
 
-#How to use
+# How to use
 - Access the SaveLoadManager instance any way you seem fit(eg. DI) and call Initialize();
 - Use Save<[Your SaveData class]>() or SaveAll() to save data to the JSON.
 - Use Load<[Your SaveData class]>() to load the required data.
