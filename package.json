@@ -1,0 +1,16 @@
+{
+  "name": "com.callistergames.sls",
+  "version": "0.1.0",
+  "displayName": "Save Load System",
+  "description": "Save load system",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/CallisterGames/SLS",
+  "changelogUrl": "https://github.com/CallisterGames/SLS",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  },
+  "author": {
+    "name": "Callister Games",
+    "email": "brainlag.developer@gmail.com"
+  }
+}
